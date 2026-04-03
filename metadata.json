@@ -1,0 +1,7 @@
+{
+  "name": "Bodyfy Fitness",
+  "description": "Premium fitness center website for Bodyfy Fitness by Power House Gym, featuring membership plans, trainer profiles, and high-converting CTAs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
